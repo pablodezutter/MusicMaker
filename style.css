@@ -50,14 +50,11 @@ visual{
      color: white;
 } 
 
-.circleGreen{
-width: 50px;
-height: 50px;
-background-color: green;
-border-radius: 50px;
-}
-
-#circleText{
-padding: 50% auto;
-
-}
+.circle{
+     width: 50px;
+     height: 50px;
+     border-radius: 50%;
+     margin: 50px;
+     position: absolute;
+     
+     }
