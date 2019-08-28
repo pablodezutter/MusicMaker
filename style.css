@@ -49,3 +49,15 @@ visual{
      padding-bottom: 10px;
      color: white;
 } 
+
+.circleGreen{
+width: 50px;
+height: 50px;
+background-color: green;
+border-radius: 50px;
+}
+
+#circleText{
+padding: 50% auto;
+
+}

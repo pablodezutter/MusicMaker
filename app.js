@@ -65,13 +65,9 @@ document.addEventListener("keyup", e => {
             synth.triggerRelease();
     }
 
-    // create bubbles
-
-    const createBubbles = () => {
-        const bubble = document.createElement("div");
 
 
-    }
+
 
 
 
