@@ -86,9 +86,8 @@ document.addEventListener("keyup", e => {
     }
 
 
-
+    document.addEventListener("keydown", bubbles);
     piano.addEventListener("click", bubbles);
-    piano.addEventListener("keydown", bubbles);
     function bubbles() {
         console.log("click");
         document.body.style.backgroundColor = "green";
